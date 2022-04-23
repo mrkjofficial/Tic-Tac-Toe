@@ -85,7 +85,7 @@ namespace Tic_Tac_Toe
             this.DeveloperPictureBox.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.DeveloperPictureBox.BackColor = System.Drawing.Color.Transparent;
             this.DeveloperPictureBox.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.DeveloperPictureBox.Image = ((System.Drawing.Image)(resources.GetObject("DeveloperPictureBox.Image")));
+            this.DeveloperPictureBox.Image = global::Tic_Tac_Toe.Properties.Resources.Karan;
             this.DeveloperPictureBox.Location = new System.Drawing.Point(75, 150);
             this.DeveloperPictureBox.Name = "DeveloperPictureBox";
             this.DeveloperPictureBox.Size = new System.Drawing.Size(250, 250);
